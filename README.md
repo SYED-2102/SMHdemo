@@ -1,4 +1,4 @@
 # SMHdemo
 my first repository
 <br>
-Author:syed mujtaba hussain
+Author:syed mujtaba hussain(SMH)
